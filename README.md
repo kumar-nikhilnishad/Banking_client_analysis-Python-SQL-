@@ -25,7 +25,7 @@ Analyzed property ownership trends.
 
 Evaluated gender-based financial behavior and account distributions.
 
-This project demonstrates my ability to extract actionable insights from structured financial datasets using SQL for precision querying and Pandas for scalable analysis, delivering real value in strategic banking contexts.
+This project demonstrates my ability to extract actionable insights from structured financial datasets using SQL for precision querying, delivering real value in strategic banking contexts.
 
 
 ---
