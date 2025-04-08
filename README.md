@@ -8,9 +8,6 @@ In the Banking Client Analysis project, I performed comprehensive data cleaning,
 
 🗃️ Data Retrieval: Wrote efficient PostgreSQL queries to extract specific client information based on conditions like age, income, banking relationship type, and join date.
 
-📊 Client Segmentation: Grouped clients by banking relationship, loyalty classification, and occupation to analyze average savings, loans, and deposits.
-
-📈 KPI Derivation: Calculated key performance indicators such as average estimated income, total business lending, and client-to-advisor ratios.
 
 # 🔍 Advanced Analysis:
 
